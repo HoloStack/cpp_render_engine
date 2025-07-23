@@ -1,6 +1,6 @@
 # cpp render engine
 
-renders a volkswagen beetle
+renders a beetle or whatever
 
 ## build
 ```
@@ -12,6 +12,6 @@ make
 ./render_engine
 ```
 
-outputs to output.ppm
+outputs some ppm file
 
-uses some 3d math idk
+made all the libraries myself from scratch no dependencies
